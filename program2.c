@@ -1,1 +1,1 @@
-printf("Hello Max\n");
+printf("Hello MAx\n");
